@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DispositivoElect", "DispositivoElect\DispositivoElect.csproj", "{FBCD4326-B7F7-4958-AED0-F46ED80EB68E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBCD4326-B7F7-4958-AED0-F46ED80EB68E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBCD4326-B7F7-4958-AED0-F46ED80EB68E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBCD4326-B7F7-4958-AED0-F46ED80EB68E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBCD4326-B7F7-4958-AED0-F46ED80EB68E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B81F2479-9988-4EF2-AD25-20B0DE8A0358}
+	EndGlobalSection
+EndGlobal
