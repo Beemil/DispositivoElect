@@ -1,12 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 
 namespace DispositivoElect
 {
-    internal interface IDispositivoElectronico
+    public interface IDispositivoElectronico
     {
+        void Encender();
+        void Apagar();
+        void MostrarEstado();
+
     }
 }
